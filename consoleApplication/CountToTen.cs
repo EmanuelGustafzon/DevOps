@@ -11,4 +11,8 @@ public static class CountToTen
         }
         return count;
     }
+    public static string StringifyTen()
+    {
+        return "10";
+    }
 }
